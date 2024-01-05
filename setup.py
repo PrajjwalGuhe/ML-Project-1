@@ -22,5 +22,4 @@ version='0.0.1',
 author='Prajjwal',
 author_email='Prajwalguhe2000@gmail.com',
 packages=find_packages(),
-install_requires=get_requirements('requirements.txt')
-)
+install_requires=get_requirements('requirements.txt'))
